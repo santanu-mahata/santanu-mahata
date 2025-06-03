@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanu-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="santanu-mahata" /> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning **MCA**
 
 - 📫 How to reach me **mahatasantanu001@gmail.com**
 
